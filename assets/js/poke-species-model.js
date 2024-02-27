@@ -1,0 +1,3 @@
+class PokemonSpecies {
+    eggGroups = [];
+}
